@@ -3,6 +3,7 @@
 /completions/hyprctl/hyprctl.elv
 /completions/hyprctl/hyprctl.zsh
 /examples/
+/elvish/
 /nushell/
 /fish/
 /zsh/
